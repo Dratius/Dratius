@@ -4,7 +4,7 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=dratius&column=8&theme=radical&no-frame=true&no-bg=true"/>
 </a>
 
-(https://github-readme-stats.vercel.app/api?username=dratius&theme=radical&show_icons=true&count_private=true)
+![Dratius](https://github-readme-stats.vercel.app/api?username=dratius&theme=radical&show_icons=true&count_private=true)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dratius&theme=solarized_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dratius&theme=solarized_dark)
